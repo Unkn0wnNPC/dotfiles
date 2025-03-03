@@ -1,7 +1,7 @@
 # Installation
 ## Install required packages
 ```bash
-sudo pacman -S git starship zsh neofetch mangohud exa stow
+sudo pacman -S git starship zsh eza stow
 ```
 ## Clone repository
 ```bash
