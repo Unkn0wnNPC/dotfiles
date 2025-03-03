@@ -9,7 +9,7 @@ git clone https://github.com/Unkn0wnNPC/dotfiles.git
 ```
 ## Add files with stow
 ```bash
-cd dotfiles:stow .
+cd dotfiles;stow .
 ```
 ## Enable Keepass SSH Agent
 ```bash
