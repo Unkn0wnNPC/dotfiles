@@ -1,7 +1,7 @@
 # Installation
 ## Install required packages
 ```bash
-sudo pacman -S git starship zsh eza stow
+sudo pacman -S git foot zsh eza stow tmux
 ```
 ## Clone repository
 ```bash
