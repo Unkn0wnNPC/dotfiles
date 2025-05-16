@@ -9,12 +9,13 @@ export LANGUAGE=en
 export LC_ALL=en_US.UTF-8
 
 # ALIASES
+alias less="less --mouse"
 alias dig="drill"
 alias ll="exa -lah"
 alias s="ssh"
 alias sudo="run0"
 alias help="wiki-search"
-alias vim="nvim"
+alias vim="helix1"
 
 # HISTORY
 export HISTFILE=~/.zsh_history
