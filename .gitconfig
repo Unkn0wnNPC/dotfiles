@@ -2,4 +2,4 @@
 	email = user@example.com
 	name = John Doe
 [core]
-	editor = nvim
+	editor = helix

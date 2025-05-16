@@ -1,7 +1,7 @@
 # Installation
 ## Install required packages
 ```bash
-sudo pacman -S git foot zsh eza stow tmux
+sudo pacman -S git foot zsh eza stow tmux helix
 ```
 ## Clone repository
 ```bash
