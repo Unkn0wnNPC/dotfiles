@@ -11,11 +11,11 @@ export LC_ALL=en_US.UTF-8
 # ALIASES
 alias less="less --mouse"
 alias dig="drill"
-alias ll="exa -lah"
+alias ll="eza -lah"
 alias s="ssh"
-alias sudo="run0"
+alias sudo="run0 --background ''"
 alias help="wiki-search"
-alias vim="helix1"
+alias vim="helix"
 
 # HISTORY
 export HISTFILE=~/.zsh_history
